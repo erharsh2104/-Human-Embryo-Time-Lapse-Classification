@@ -1,4 +1,4 @@
-# 🧬 Human Embryo Time-Lapse Classification
+#  Human Embryo Time-Lapse Classification
 
 Multiclass image classification of human embryo developmental stages using transfer learning in PyTorch.
 
